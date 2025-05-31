@@ -29,3 +29,14 @@ Tables operations menu
 - Delete From Table
 - Back to Main Menu
 - Exit
+
+## How to run the project: ----the containerized way 
+-please make sure Docker is installed on your machine wether through WSL, or natively through linux machine or a vm 
+
+and do 
+```bash
+docker run amir14631/bash
+```
+and that is it, enjoy!
+
+
